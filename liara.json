@@ -2,10 +2,5 @@
     "args": [
         "python3 server.py"
     ],
-    "python": {
-        "mirror": true,
-        "port": 8000,
-        "version": "3.12",
-        "timezone": "America/Los_Angeles"
-    }
+    "port": 8080
 }
